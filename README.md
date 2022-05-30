@@ -1,2 +1,1 @@
-# Tindog
-made using css framework called bootstrap
+TinDog Starting Files
