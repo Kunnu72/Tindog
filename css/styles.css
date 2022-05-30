@@ -141,9 +141,7 @@ color: #ff4c68;
     position:static;
     width: 60%;
     transform: rotate(0);
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
+     
   }
 }
 .download-button1{
