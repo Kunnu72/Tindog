@@ -133,12 +133,12 @@ color: #ff4c68;
 }
 @media  (max-width: 1030px){
   #title{
-    text-align: left;
+    text-align: center;
   }
   .phone{
     position:static;
     /* margin-left: 20%; */
-    width: 80%;
+    width: 60%;
     transform: rotate(0);
   }
 }
