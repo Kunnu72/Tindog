@@ -132,17 +132,18 @@ color: #ff4c68;
 .card{
   margin: 10% 6% 10% 6%;
 }
-@media  (max-width: 1030px){
+@media  (max-width: 770px){
   #title{
     text-align: center;
     
   }
   .phone{
     position:static;
-   padding-top: 5%;
-    padding-left: 15%;
-    width: 100%;
+    width: 60%;
     transform: rotate(0);
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 .download-button1{
