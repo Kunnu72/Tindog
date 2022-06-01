@@ -133,7 +133,7 @@ color: #ff4c68;
 }
 @media  (max-width: 778px){
   #title{
-    text-align: left;
+    text-align: center;
   }
   .phone{
     position: static;
