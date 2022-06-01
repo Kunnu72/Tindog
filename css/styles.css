@@ -139,14 +139,20 @@ color: #ff4c68;
     position:static;
     transform: rotate(0);
     width: 60%;
-
+    padding-left: 13%;
   }
  .row{
    text-align: left;
 }
+ .buton{
+   padding-left: 16%;
+   padding-bottom: 7%;
+ }
+} 
 .download-button1{
   margin: 5% 3% 3% 5%;
 }
+  
 
 #cta{
   background: #ff4c68;
