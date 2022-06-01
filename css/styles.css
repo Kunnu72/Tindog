@@ -141,6 +141,8 @@ color: #ff4c68;
     width: 60%;
 
   }
+ .row{
+   text-align: left;
 }
 .download-button1{
   margin: 5% 3% 3% 5%;
