@@ -54,7 +54,6 @@ p{
 }
 .phone{
   transform: rotate(25deg);
-   /* margin:0 0 5% 0;  */
   width: 25%;
 position: absolute;
 }
