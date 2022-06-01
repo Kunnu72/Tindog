@@ -134,6 +134,7 @@ color: #ff4c68;
 @media  (max-width: 1028px){
   #title{
     text-align: center;
+    padding-bottom: 50%;
     
   }
   .phone{
