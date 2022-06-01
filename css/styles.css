@@ -143,11 +143,12 @@ color: #ff4c68;
   }
  .big-heading{
    text-align: left;
-   padding-left: 10%;
+   padding-left: 13%;
 }
  .buton{
-   padding-left: 16%;
    padding-bottom: 7%;
+   padding-left: 13%;
+    text-align:left;
  }
 } 
 .download-button1{
