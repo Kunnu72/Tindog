@@ -141,8 +141,9 @@ color: #ff4c68;
     width: 60%;
     padding-left: 13%;
   }
- .row{
+ .big-heading{
    text-align: left;
+   padding-left: 10%;
 }
  .buton{
    padding-left: 16%;
