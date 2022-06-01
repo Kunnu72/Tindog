@@ -139,6 +139,8 @@ color: #ff4c68;
   .phone{
     position:static;
     transform: rotate(0);
+    display: block;
+    margin: 0 auto;
     width: 60%;
      
   }
