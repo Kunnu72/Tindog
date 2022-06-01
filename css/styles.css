@@ -54,6 +54,7 @@ p{
 }
 .phone{
   transform: rotate(25deg);
+   /* margin:0 0 5% 0;  */
   width: 25%;
 position: absolute;
 }
@@ -132,12 +133,13 @@ color: #ff4c68;
 }
 @media  (max-width: 778px){
   #title{
-    text-align: center;
+    text-align: left;
   }
   .phone{
     position:static;
     transform: rotate(0);
     width: 60%;
+    padding-left: 20%;
 
   }
 }
